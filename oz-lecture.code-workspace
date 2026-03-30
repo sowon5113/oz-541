@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../oz-lecture"
+		},
+		{
+			"path": "../oz-calculator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oz-lecture"
+	}
+}
